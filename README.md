@@ -3,9 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). -->
 # Fruit-Game
 
-<img src="../fruit-game/public/game1.png"  >
+<img src="./public/game1.png"  >
 
-<img src="../fruit-game/public/game2.png">
+<img src="./public/game2.png">
 
 
 
